@@ -2,15 +2,27 @@
   "wx394b878feb6c7786": {
     "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-07d67250772c2f4d",
-    "homeListNativeTemplateAdUnitIds": ["adunit-97ac6a50092592a5", "adunit-f887ee346c4321dc", "adunit-d12135e7959e493b"],
+    "homeListNativeTemplateAdUnitIds": [
+      "adunit-97ac6a50092592a5",
+      "adunit-f887ee346c4321dc"
+    ],
     "homeDetailNativeTemplateAdUnitId": "adunit-fd846003a04ebe7d",
-    "audioListNativeTemplateAdUnitIds": ["adunit-e9e6b0e2546fe52a", "adunit-1ab7a4640479d4fb", "adunit-7a5c86df8f59debf"],
+    "audioListNativeTemplateAdUnitIds": [
+      "adunit-e9e6b0e2546fe52a",
+      "adunit-1ab7a4640479d4fb"
+    ],
     "audioDetailNativeTemplateAdUnitId": "adunit-5398fb6c9468f496",
-    "avatarListNativeTemplateAdUnitIds": ["adunit-9f58e6560cbf848b", "adunit-ee54286a7e1bcfb2", "adunit-2269993955751c15"],
+    "avatarListNativeTemplateAdUnitIds": [
+      "adunit-9f58e6560cbf848b"
+    ],
     "avatarDetailNativeTemplateAdUnitId": "adunit-841a26c0efee48e6",
-    "emojiListNativeTemplateAdUnitIds": ["adunit-96ab3f68ca8140e1", "adunit-9c9a705dff4e3268", "adunit-a2061cb2d2b91813"],
+    "emojiListNativeTemplateAdUnitIds": [
+      "adunit-96ab3f68ca8140e1"
+    ],
     "emojiDetailNativeTemplateAdUnitId": "adunit-2f45b614ed748a54",
-    "wallpaperListNativeTemplateAdUnitIds": ["adunit-07009397b40a9a57", "adunit-07857cfa59db4e53", "adunit-f9a3211a521114da"],
+    "wallpaperListNativeTemplateAdUnitIds": [
+      "adunit-07009397b40a9a57"
+    ],
     "wallpaperDetailNativeTemplateAdUnitId": "adunit-ea555e4645616348",
     "feedbackNativeTemplateAdUnitId": "adunit-7d7a56bb2c8287ed",
     "noticeNativeTemplateAdUnitId": "adunit-6931a8f9584a6a13",
@@ -27,15 +39,35 @@
   "wxbe2c2af9a1d495b2": {
     "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
-    "homeListNativeTemplateAdUnitIds": ["adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f"],
+    "homeListNativeTemplateAdUnitIds": [
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f"
+    ],
     "homeDetailNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
-    "audioListNativeTemplateAdUnitIds": ["adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f"],
+    "audioListNativeTemplateAdUnitIds": [
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f"
+    ],
     "audioDetailNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
-    "avatarListNativeTemplateAdUnitIds": ["adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f"],
+    "avatarListNativeTemplateAdUnitIds": [
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f"
+    ],
     "avatarDetailNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
-    "emojiListNativeTemplateAdUnitIds": ["adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f"],
+    "emojiListNativeTemplateAdUnitIds": [
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f"
+    ],
     "emojiDetailNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
-    "wallpaperListNativeTemplateAdUnitIds": ["adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f", "adunit-fb7ea863f389178f"],
+    "wallpaperListNativeTemplateAdUnitIds": [
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f",
+      "adunit-fb7ea863f389178f"
+    ],
     "wallpaperDetailNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
     "feedbackNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
     "noticeNativeTemplateAdUnitId": "adunit-fb7ea863f389178f",
@@ -52,15 +84,35 @@
   "wxf0a486039814dc3f": {
     "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
-    "homeListNativeTemplateAdUnitIds": ["adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9"],
+    "homeListNativeTemplateAdUnitIds": [
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9"
+    ],
     "homeDetailNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
-    "audioListNativeTemplateAdUnitIds": ["adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9"],
+    "audioListNativeTemplateAdUnitIds": [
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9"
+    ],
     "audioDetailNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
-    "avatarListNativeTemplateAdUnitIds": ["adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9"],
+    "avatarListNativeTemplateAdUnitIds": [
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9"
+    ],
     "avatarDetailNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
-    "emojiListNativeTemplateAdUnitIds": ["adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9"],
+    "emojiListNativeTemplateAdUnitIds": [
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9"
+    ],
     "emojiDetailNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
-    "wallpaperListNativeTemplateAdUnitIds": ["adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9", "adunit-f453a72877ff22a9"],
+    "wallpaperListNativeTemplateAdUnitIds": [
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9",
+      "adunit-f453a72877ff22a9"
+    ],
     "wallpaperDetailNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
     "feedbackNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
     "noticeNativeTemplateAdUnitId": "adunit-f453a72877ff22a9",
@@ -77,15 +129,35 @@
   "wxc9d52685e4990f9b": {
     "freeDownloadCount": 10,
     "nativeTemplateAdUnitId": "adunit-035549225b1de285",
-    "homeListNativeTemplateAdUnitIds": ["adunit-035549225b1de285", "adunit-035549225b1de285", "adunit-035549225b1de285"],
+    "homeListNativeTemplateAdUnitIds": [
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285"
+    ],
     "homeDetailNativeTemplateAdUnitId": "adunit-035549225b1de285",
-    "audioListNativeTemplateAdUnitIds": ["adunit-035549225b1de285", "adunit-035549225b1de285", "adunit-035549225b1de285"],
+    "audioListNativeTemplateAdUnitIds": [
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285"
+    ],
     "audioDetailNativeTemplateAdUnitId": "adunit-035549225b1de285",
-    "avatarListNativeTemplateAdUnitIds": ["adunit-035549225b1de285", "adunit-035549225b1de285", "adunit-035549225b1de285"],
+    "avatarListNativeTemplateAdUnitIds": [
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285"
+    ],
     "avatarDetailNativeTemplateAdUnitId": "adunit-035549225b1de285",
-    "emojiListNativeTemplateAdUnitIds": ["adunit-035549225b1de285", "adunit-035549225b1de285", "adunit-035549225b1de285"],
+    "emojiListNativeTemplateAdUnitIds": [
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285"
+    ],
     "emojiDetailNativeTemplateAdUnitId": "adunit-035549225b1de285",
-    "wallpaperListNativeTemplateAdUnitIds": ["adunit-035549225b1de285", "adunit-035549225b1de285", "adunit-035549225b1de285"],
+    "wallpaperListNativeTemplateAdUnitIds": [
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285",
+      "adunit-035549225b1de285"
+    ],
     "wallpaperDetailNativeTemplateAdUnitId": "adunit-035549225b1de285",
     "feedbackNativeTemplateAdUnitId": "adunit-035549225b1de285",
     "noticeNativeTemplateAdUnitId": "adunit-035549225b1de285",
@@ -100,3 +172,4 @@
     "isUnderReview": false
   }
 }
+
